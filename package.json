@@ -6,10 +6,14 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@remotion/cli": "4.0.160",
+    "@remotion/gif": "4.0.163",
+    "@remotion/paths": "^4.0.160",
     "@remotion/zod-types": "4.0.160",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-globe.gl": "^2.27.2",
     "remotion": "4.0.160",
+    "three": "^0.152.2",
     "zod": "3.22.3"
   },
   "devDependencies": {
